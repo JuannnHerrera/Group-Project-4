@@ -1,0 +1,182 @@
+/* General styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: url('D:/ASU_Bootcamp_Anaconda/Project_4_Userfacing/WebsiteDesignResources/Header.png') no-repeat center center;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 4em 0;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+nav {
+    background-color: #34495e;
+    overflow: hidden;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    flex: 1;
+}
+
+nav ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    text-decoration: none;
+    transition: background-color 0.3s, color 0.3s;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    background-color: #1abc9c;
+    color: #fff;
+}
+
+main {
+    padding: 40px 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    animation: fadeIn 1s ease-in-out;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+h2 {
+    border-bottom: 2px solid #1abc9c;
+    padding-bottom: 10px;
+    color: #2c3e50;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+footer {
+    background-color: #2c3e50;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+    position: relative;
+    width: 100%;
+    bottom: 0;
+}
+
+/* Landing page specific styles */
+.landing-page {
+    background: url('D:/ASU_Bootcamp_Anaconda/Project_4_Userfacing/WebsiteDesignResources/MainLanding.png') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.landing-page main {
+    background-color: rgba(255, 255, 255, 0.85);
+}
+
+/* Team page specific styles */
+.team-page {
+    background: url('D:/ASU_Bootcamp_Anaconda/Project_4_Userfacing/WebsiteDesignResources/Designer.png') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.team-page main {
+    background-color: rgba(255, 255, 255, 0.85);
+}
+
+.team-member {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.team-member img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+    border: 2px solid #1abc9c;
+    transition: transform 0.3s;
+}
+
+.team-member img:hover {
+    transform: scale(1.1);
+}
+
+.team-member h3 {
+    margin: 0;
+    color: #2c3e50;
+}
+
+/* Data page specific styles */
+.data-page {
+    background: url('D:/ASU_Bootcamp_Anaconda/Project_4_Userfacing/WebsiteDesignResources/TheftCrime.png') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.data-page main {
+    background-color: rgba(255, 255, 255, 0.85);
+}
+
+.data-controls,
+.filters {
+    margin: 20px 0;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#data-display {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    min-height: 200px;
+    text-align: center;
+    line-height: 200px;
+    color: #666;
+}
+
+/* Analysis page specific styles */
+.analysis-page {
+    background: url('D:/ASU_Bootcamp_Anaconda/Project_4_Userfacing/WebsiteDesignResources/CyberCrime.png') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.analysis-page main {
+    background-color: rgba(255, 255, 255, 0.85);
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
