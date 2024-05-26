@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Exploration - Global Crime Analysis</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="data-page">
+    <header>
+        <h1>Data Exploration</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="home.html">Home</a></li>
+            <li><a href="data.html">Data</a></li>
+            <li><a href="analysis.html">Analysis</a></li>
+            <li><a href="team.html">Team</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="data">
+            <h2>Explore the Data</h2>
+            <div class="data-controls">
+                <label for="dataset-select">Choose a dataset:</label>
+                <select id="dataset-select">
+                    <option value="organized-crime">Organized Crime Index</option>
+                    <option value="theft-rate">Theft Rate By Country</option>
+                </select>
+            </div>
+            <div class="filters">
+                <label for="year-range">Year Range:</label>
+                <input type="range" id="year-range" name="year-range" min="2000" max="2024">
+                <span id="year-value">2024</span>
+            </div>
+            <div id="data-display"></div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 The Global Detectives</p>
+    </footer>
+    <script src="scripts.js"></script>
+</body>
+</html>
