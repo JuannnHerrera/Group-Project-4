@@ -23,6 +23,7 @@ In this project, we investigate the rates of global theft and cybercrime. Our ai
   - [Task details]
 - **Juan:**
   - [Task details]
+  - Created Github and Userfacing Design
 - **Taryn:**
   - [Task details]
 
