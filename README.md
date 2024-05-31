@@ -20,7 +20,7 @@ In this project, we investigate the rates of global theft and cybercrime. Our ai
 
 ## Task Breakdown
 - **Angelica:**
-  - [Task details]
+  - Project Management with ClickUp
 - **Juan:**
   - [Task details]
   - Created Github and Userfacing Design
