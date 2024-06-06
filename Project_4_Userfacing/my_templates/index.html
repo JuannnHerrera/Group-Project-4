@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cyber Crime Statistics</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <h1>Cyber Crime Statistics</h1>
+    <label for="year">Select Year:</label>
+    <select id="year"></select>
+    <label for="crimeType">Select Crime Type:</label>
+    <select id="crimeType"></select>
+    <div id="chart"></div>
+
+    <script>
+        $(document).ready(function() {
+            $.getJSON('/data', function(data) {
+                // Populate year dropdown
+                data.years.forEach(function(year) {
+                    $('#year').append(new Option(year, year));
+                });
+                // Populate crime type dropdown
+                data.crime_types.forEach(function(crimeType) {
+                    $('#crimeType').append(new Option(crimeType, crimeType));
+                });
+            });
+
+            function fetchData() {
+                let year = $('#year').val();
+                let crimeType = $('#crimeType').val();
+                $.getJSON(`/stats/${year}/${crimeType}`, function(data) {
+                    let countries = data.map(d => d.Country);
+                    let counts = data.map(d => d.Count);
+
+                    var plotData = [{
+                        x: countries,
+                        y: counts,
+                        type: 'bar'
+                    }];
+
+                    Plotly.newPlot('chart', plotData);
+                });
+            }
+
+            $('#year, #crimeType').change(fetchData);
+        });
+    </script>
+</body>
+</html>
+
