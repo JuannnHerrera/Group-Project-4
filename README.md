@@ -7,7 +7,7 @@
 - Taryn
 
 ## Project Description
-In this project, we investigate the rates of global theft and cybercrime. Our aim is to determine which countries have the most and fewest incidences of theft and cybercrime. Additionally, we will use machine learning to predict which countries will experience the most and least growth in theft and cybercrime rates in the future. We will ensure the credibility of our datasets and generate visualizations based on our findings using Python and ClickUp.
+In this project, we investigate the rates of global theft and cybercrime. Our aim is to determine which countries have the most and fewest incidences of theft and cybercrime. Additionally, we will use machine learning to predict which countries will experience the most and least growth in theft and cybercrime rates in the future. We will ensure the credibility of our datasets and generate visualizations based on our findings using HTML, CSS, JavaScript, Python and ClickUp.
 
 ## Research Questions
 1. Which countries have the highest and lowest theft rates?
@@ -16,20 +16,19 @@ In this project, we investigate the rates of global theft and cybercrime. Our ai
 
 ## Selected Datasets
 - [The Organized Crime Index](https://ocindex.net/rankings?f=rankings&view=List)
-- [Theft Rate By Country](https://www.theglobaleconomy.com/rankings/theft/)
 
 ## Task Breakdown
 - **Angelica:**
-  - Project Management with ClickUp
+  - Project Management and Webscraping Design
 - **Juan:**
-  - [Task details]
   - Created Github and Userfacing Design
 - **Taryn:**
-  - [Task details]
+  - Interactive Visualization Design
 
 ## Tools
-- **Web Scraping:** Jupyter Notebook and BeautifulSoup
+- **Web Scraping:** Jupyter Notebook (Python)
 - **Project Management:** ClickUp
+- **Web Design:** HTML, CSS, JavaScript
 
-## Project Timeline with Due Dates
-*… to be added soon…*
+## Project Timeline
+![image](https://github.com/JuannnHerrera/Group-Project-4/assets/152451436/5b9c611e-b63e-4938-981a-a6af83eb9add)
