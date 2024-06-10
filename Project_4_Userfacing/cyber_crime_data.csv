@@ -1,5 +1,1159 @@
 ﻿Year,Country,CrimeType,Count
-2020,USA,Hacking,100
-2020,Canada,Hacking,50
-2020,Mexico,Identity Theft,150
-2020,Brazil,Fraud,200
+2021,Turkey,Criminal markets,6.4
+2021,Cabo Verde,Criminal markets,3.7
+2021,South Africa,Criminal markets,6
+2021,Colombia,Criminal markets,7.2
+2021,Peru,Criminal markets,6.2
+2021,Iraq,Criminal markets,6.35
+2021,Suriname,Criminal markets,4.55
+2021,Venezuela,Criminal markets,5.65
+2021,Mauritius,Criminal markets,4.4
+2021,Botswana,Criminal markets,3.8
+2021,Iran,Criminal markets,6.95
+2021,Guyana,Criminal markets,4.7
+2021,Senegal,Criminal markets,5
+2021,Brazil,Criminal markets,6.5
+2021,Cambodia,Criminal markets,6.15
+2021,Nigeria,Criminal markets,7.05
+2021,Philippines,Criminal markets,6.3
+2021,Rwanda,Criminal markets,4.1
+2021,Ghana,Criminal markets,6.15
+2021,Ethiopia,Criminal markets,4.95
+2021,Bolivia,Criminal markets,4.6
+2021,Kenya,Criminal markets,6.65
+2021,Afghanistan,Criminal markets,6.9
+2021,Indonesia,Criminal markets,6
+2021,Gambia,Criminal markets,5.15
+2021,Namibia,Criminal markets,3.9
+2021,Mexico,Criminal markets,8
+2021,Sao Tome and Principe,Criminal markets,1.8
+2021,Tunisia,Criminal markets,4.2
+2021,Algeria,Criminal markets,4.65
+2021,Morocco,Criminal markets,4.95
+2021,Seychelles,Criminal markets,3.6
+2021,Djibouti,Criminal markets,3.6
+2021,India,Criminal markets,6.3
+2021,Angola,Criminal markets,5.2
+2021,Saudi Arabia,Criminal markets,6.9
+2021,Côte d'Ivoire,Criminal markets,6.05
+2021,Switzerland,Criminal markets,4.3
+2021,Yemen,Criminal markets,5
+2021,Tajikistan,Criminal markets,5.1
+2021,Zambia,Criminal markets,4.6
+2021,Syria,Criminal markets,6.05
+2021,Turkmenistan,Criminal markets,4.35
+2021,Ireland,Criminal markets,4.55
+2021,"Korea, DPR",Criminal markets,5.3
+2021,Malawi,Criminal markets,4.15
+2021,Myanmar,Criminal markets,7.05
+2021,Nepal,Criminal markets,5.7
+2021,Tanzania,Criminal markets,6.55
+2021,Ecuador,Criminal markets,6
+2021,Egypt,Criminal markets,4.95
+2021,Costa Rica,Criminal markets,4.85
+2021,Togo,Criminal markets,4.9
+2021,Bahrain,Criminal markets,5.65
+2021,Uganda,Criminal markets,5.65
+2021,Uzbekistan,Criminal markets,4.55
+2021,Vietnam,Criminal markets,6.05
+2021,Thailand,Criminal markets,6.4
+2021,Panama,Criminal markets,6.35
+2021,United Arab Emirates,Criminal markets,6.75
+2021,Nicaragua,Criminal markets,5.5
+2021,Kuwait,Criminal markets,6.15
+2021,Lesotho,Criminal markets,3.55
+2021,Burkina Faso,Criminal markets,5.35
+2021,Haiti,Criminal markets,5.45
+2021,Azerbaijan,Criminal markets,4.15
+2021,Malaysia,Criminal markets,6.25
+2021,Benin,Criminal markets,5.25
+2021,Papua New Guinea,Criminal markets,5
+2021,Oman,Criminal markets,4.9
+2021,Pakistan,Criminal markets,6.3
+2021,Sierra Leone,Criminal markets,5.05
+2021,France,Criminal markets,5.7
+2021,Netherlands,Criminal markets,5
+2021,Kyrgyzstan,Criminal markets,4.4
+2021,Andorra,Criminal markets,2.55
+2021,Madagascar,Criminal markets,5.3
+2021,Israel,Criminal markets,4.2
+2021,Belgium,Criminal markets,5.05
+2021,Qatar,Criminal markets,5.8
+2021,Honduras,Criminal markets,5.7
+2021,Mozambique,Criminal markets,6.05
+2021,Germany,Criminal markets,4.8
+2021,United Kingdom,Criminal markets,4.4
+2021,Austria,Criminal markets,3.95
+2021,"Congo, Rep.",Criminal markets,4.8
+2021,Lebanon,Criminal markets,5.9
+2021,Liechtenstein,Criminal markets,2
+2021,China,Criminal markets,5.9
+2021,Bhutan,Criminal markets,3.75
+2021,Luxembourg,Criminal markets,2.35
+2021,United States,Criminal markets,5.5
+2021,Kazakhstan,Criminal markets,4.15
+2021,Dominican Republic,Criminal markets,5.3
+2021,Eswatini,Criminal markets,3.25
+2021,Italy,Criminal markets,5.25
+2021,Niger,Criminal markets,5.9
+2021,Malta,Criminal markets,4.05
+2021,Zimbabwe,Criminal markets,5.2
+2021,Liberia,Criminal markets,5.1
+2021,Mongolia,Criminal markets,3.9
+2021,Gabon,Criminal markets,4.8
+2021,Portugal,Criminal markets,4.1
+2021,Greece,Criminal markets,4.1
+2021,Cuba,Criminal markets,4
+2021,Cameroon,Criminal markets,6.25
+2021,Mauritania,Criminal markets,4
+2021,Sudan,Criminal markets,5.55
+2021,Guinea,Criminal markets,5.15
+2021,Paraguay,Criminal markets,5.9
+2021,Bangladesh,Criminal markets,4.95
+2021,Armenia,Criminal markets,3.4
+2021,Spain,Criminal markets,5.3
+2021,Cyprus,Criminal markets,3.5
+2021,Monaco,Criminal markets,1.6
+2021,Chad,Criminal markets,5.35
+2021,Nauru,Criminal markets,1.65
+2021,San Marino,Criminal markets,1.9
+2021,Guinea-Bissau,Criminal markets,4.9
+2021,Japan,Criminal markets,4.05
+2021,Norway,Criminal markets,4
+2021,Belize,Criminal markets,4.4
+2021,Mali,Criminal markets,6.15
+2021,Sri Lanka,Criminal markets,4.65
+2021,Estonia,Criminal markets,3.45
+2021,Sweden,Criminal markets,4.25
+2021,Georgia,Criminal markets,3.05
+2021,Denmark,Criminal markets,3.85
+2021,Argentina,Criminal markets,3.75
+2021,Latvia,Criminal markets,3.65
+2021,Lithuania,Criminal markets,3
+2021,Canada,Criminal markets,3.45
+2021,Finland,Criminal markets,2.8
+2021,Grenada,Criminal markets,2.85
+2021,Iceland,Criminal markets,2.65
+2021,Comoros,Criminal markets,3.85
+2021,Ukraine,Criminal markets,5.6
+2021,Solomon Islands,Criminal markets,3.55
+2021,Guatemala,Criminal markets,5.95
+2021,Albania,Criminal markets,5.25
+2021,Poland,Criminal markets,4.4
+2021,Kiribati,Criminal markets,2.45
+2021,Russia,Criminal markets,6.1
+2021,Timor-Leste,Criminal markets,3.55
+2021,Eritrea,Criminal markets,4.05
+2021,"Korea, Rep.",Criminal markets,3.95
+2021,Chile,Criminal markets,4.45
+2021,Fiji,Criminal markets,3.8
+2021,Bahamas,Criminal markets,3.95
+2021,Brunei,Criminal markets,3.15
+2021,Bulgaria,Criminal markets,5.1
+2021,"Congo, Dem. Rep.",Criminal markets,6.5
+2021,Australia,Criminal markets,3.75
+2021,Belarus,Criminal markets,4.4
+2021,Tonga,Criminal markets,3.3
+2021,Croatia,Criminal markets,4.75
+2021,Romania,Criminal markets,5.05
+2021,Equatorial Guinea,Criminal markets,3.85
+2021,Serbia,Criminal markets,5.55
+2021,Samoa,Criminal markets,2.45
+2021,St. Kitts and Nevis,Criminal markets,3.2
+2021,Hungary,Criminal markets,4.75
+2021,Montenegro,Criminal markets,5
+2021,Trinidad and Tobago,Criminal markets,4.25
+2021,Czech Republic,Criminal markets,4.75
+2021,Barbados,Criminal markets,2.55
+2021,Laos,Criminal markets,5.65
+2021,Palau,Criminal markets,3
+2021,El Salvador,Criminal markets,5
+2021,Vanuatu,Criminal markets,2.4
+2021,Singapore,Criminal markets,3.25
+2021,Jordan,Criminal markets,4.55
+2021,New Zealand,Criminal markets,3.25
+2021,Antigua and Barbuda,Criminal markets,3.05
+2021,Bosnia and Herzegovina,Criminal markets,5.15
+2021,North Macedonia,Criminal markets,5
+2021,Slovakia,Criminal markets,4.25
+2021,Moldova,Criminal markets,3.9
+2021,Marshall Islands,Criminal markets,2.5
+2021,Micronesia (Federated States of),Criminal markets,2.85
+2021,Burundi,Criminal markets,4.4
+2021,Central African Republic,Criminal markets,5.7
+2021,Tuvalu,Criminal markets,1.7
+2021,Maldives,Criminal markets,3.5
+2021,South Sudan,Criminal markets,5.3
+2021,Somalia,Criminal markets,4.45
+2021,Uruguay,Criminal markets,2.75
+2021,Libya,Criminal markets,6.1
+2021,Jamaica,Criminal markets,4.2
+2021,St. Vincent and the Grenadines,Criminal markets,2.85
+2021,Slovenia,Criminal markets,3.95
+2021,St. Lucia,Criminal markets,3.05
+2021,Dominica,Criminal markets,2.75
+2021,Turkey,Human Trafficking ,7
+2021,Cabo Verde,Human Trafficking ,4.5
+2021,South Africa,Human Trafficking ,4.5
+2021,Colombia,Human Trafficking ,7.5
+2021,Peru,Human Trafficking ,7
+2021,Iraq,Human Trafficking ,8
+2021,Suriname,Human Trafficking ,4
+2021,Venezuela,Human Trafficking ,7.5
+2021,Mauritius,Human Trafficking ,4.5
+2021,Botswana,Human Trafficking ,4.5
+2021,Iran,Human Trafficking ,7.5
+2021,Guyana,Human Trafficking ,5.5
+2021,Senegal,Human Trafficking ,5
+2021,Brazil,Human Trafficking ,5
+2021,Cambodia,Human Trafficking ,7.5
+2021,Nigeria,Human Trafficking ,7.5
+2021,Philippines,Human Trafficking ,7
+2021,Rwanda,Human Trafficking ,5
+2021,Ghana,Human Trafficking ,6.5
+2021,Ethiopia,Human Trafficking ,6
+2021,Bolivia,Human Trafficking ,5
+2021,Kenya,Human Trafficking ,7.5
+2021,Afghanistan,Human Trafficking ,8.5
+2021,Indonesia,Human Trafficking ,6.5
+2021,Gambia,Human Trafficking ,7
+2021,Namibia,Human Trafficking ,3.5
+2021,Mexico,Human Trafficking ,7.5
+2021,Sao Tome and Principe,Human Trafficking ,1.5
+2021,Tunisia,Human Trafficking ,4
+2021,Algeria,Human Trafficking ,4.5
+2021,Morocco,Human Trafficking ,5.5
+2021,Seychelles,Human Trafficking ,4
+2021,Djibouti,Human Trafficking ,6
+2021,India,Human Trafficking ,7
+2021,Angola,Human Trafficking ,6
+2021,Saudi Arabia,Human Trafficking ,8.5
+2021,Côte d'Ivoire,Human Trafficking ,6.5
+2021,Switzerland,Human Trafficking ,5
+2021,Yemen,Human Trafficking ,8.5
+2021,Tajikistan,Human Trafficking ,6.5
+2021,Zambia,Human Trafficking ,5
+2021,Syria,Human Trafficking ,8.5
+2021,Turkmenistan,Human Trafficking ,8.5
+2021,Ireland,Human Trafficking ,4.5
+2021,"Korea, DPR",Human Trafficking ,8
+2021,Malawi,Human Trafficking ,4.5
+2021,Myanmar,Human Trafficking ,6.5
+2021,Nepal,Human Trafficking ,7
+2021,Tanzania,Human Trafficking ,6.5
+2021,Ecuador,Human Trafficking ,6
+2021,Egypt,Human Trafficking ,5.5
+2021,Costa Rica,Human Trafficking ,5
+2021,Togo,Human Trafficking ,6
+2021,Bahrain,Human Trafficking ,7.5
+2021,Uganda,Human Trafficking ,7
+2021,Uzbekistan,Human Trafficking ,7.5
+2021,Vietnam,Human Trafficking ,6.5
+2021,Thailand,Human Trafficking ,6.5
+2021,Panama,Human Trafficking ,8
+2021,United Arab Emirates,Human Trafficking ,8.5
+2021,Nicaragua,Human Trafficking ,6
+2021,Kuwait,Human Trafficking ,8
+2021,Lesotho,Human Trafficking ,4
+2021,Burkina Faso,Human Trafficking ,6
+2021,Haiti,Human Trafficking ,6.5
+2021,Azerbaijan,Human Trafficking ,4.5
+2021,Malaysia,Human Trafficking ,6.5
+2021,Benin,Human Trafficking ,6
+2021,Papua New Guinea,Human Trafficking ,7
+2021,Oman,Human Trafficking ,6
+2021,Pakistan,Human Trafficking ,8
+2021,Sierra Leone,Human Trafficking ,5
+2021,France,Human Trafficking ,6
+2021,Netherlands,Human Trafficking ,5.5
+2021,Kyrgyzstan,Human Trafficking ,6.5
+2021,Andorra,Human Trafficking ,2.5
+2021,Madagascar,Human Trafficking ,6
+2021,Israel,Human Trafficking ,5.5
+2021,Belgium,Human Trafficking ,5
+2021,Qatar,Human Trafficking ,8
+2021,Honduras,Human Trafficking ,6.5
+2021,Mozambique,Human Trafficking ,4
+2021,Germany,Human Trafficking ,5.5
+2021,United Kingdom,Human Trafficking ,6
+2021,Austria,Human Trafficking ,4.5
+2021,"Congo, Rep.",Human Trafficking ,6.5
+2021,Lebanon,Human Trafficking ,8.5
+2021,Liechtenstein,Human Trafficking ,2
+2021,China,Human Trafficking ,6.5
+2021,Bhutan,Human Trafficking ,5
+2021,Luxembourg,Human Trafficking ,3.5
+2021,United States,Human Trafficking ,5.5
+2021,Kazakhstan,Human Trafficking ,5.5
+2021,Dominican Republic,Human Trafficking ,6
+2021,Eswatini,Human Trafficking ,4
+2021,Italy,Human Trafficking ,7
+2021,Niger,Human Trafficking ,7
+2021,Malta,Human Trafficking ,5
+2021,Zimbabwe,Human Trafficking ,5.5
+2021,Liberia,Human Trafficking ,6
+2021,Mongolia,Human Trafficking ,4.5
+2021,Gabon,Human Trafficking ,5.5
+2021,Portugal,Human Trafficking ,4.5
+2021,Greece,Human Trafficking ,5.5
+2021,Cuba,Human Trafficking ,6
+2021,Cameroon,Human Trafficking ,6.5
+2021,Mauritania,Human Trafficking ,7.5
+2021,Sudan,Human Trafficking ,8
+2021,Guinea,Human Trafficking ,7
+2021,Paraguay,Human Trafficking ,7
+2021,Bangladesh,Human Trafficking ,8
+2021,Armenia,Human Trafficking ,3.5
+2021,Spain,Human Trafficking ,7
+2021,Cyprus,Human Trafficking ,5.5
+2021,Monaco,Human Trafficking ,1.5
+2021,Chad,Human Trafficking ,7
+2021,Nauru,Human Trafficking ,1.5
+2021,San Marino,Human Trafficking ,2
+2021,Guinea-Bissau,Human Trafficking ,5.5
+2021,Japan,Human Trafficking ,5
+2021,Norway,Human Trafficking ,5
+2021,Belize,Human Trafficking ,5
+2021,Mali,Human Trafficking ,7
+2021,Sri Lanka,Human Trafficking ,5.5
+2021,Estonia,Human Trafficking ,4.5
+2021,Sweden,Human Trafficking ,4.5
+2021,Georgia,Human Trafficking ,3.5
+2021,Denmark,Human Trafficking ,4
+2021,Argentina,Human Trafficking ,4
+2021,Latvia,Human Trafficking ,4.5
+2021,Lithuania,Human Trafficking ,3.5
+2021,Canada,Human Trafficking ,3.5
+2021,Finland,Human Trafficking ,3
+2021,Grenada,Human Trafficking ,2
+2021,Iceland,Human Trafficking ,4
+2021,Comoros,Human Trafficking ,5
+2021,Ukraine,Human Trafficking ,7
+2021,Solomon Islands,Human Trafficking ,4
+2021,Guatemala,Human Trafficking ,6.5
+2021,Albania,Human Trafficking ,5
+2021,Poland,Human Trafficking ,5.5
+2021,Kiribati,Human Trafficking ,4.5
+2021,Russia,Human Trafficking ,6.5
+2021,Timor-Leste,Human Trafficking ,4
+2021,Eritrea,Human Trafficking ,9
+2021,"Korea, Rep.",Human Trafficking ,6
+2021,Chile,Human Trafficking ,4
+2021,Fiji,Human Trafficking ,5
+2021,Bahamas,Human Trafficking ,4.5
+2021,Brunei,Human Trafficking ,4.5
+2021,Bulgaria,Human Trafficking ,6
+2021,"Congo, Dem. Rep.",Human Trafficking ,7
+2021,Australia,Human Trafficking ,3.5
+2021,Belarus,Human Trafficking ,7
+2021,Tonga,Human Trafficking ,3.5
+2021,Croatia,Human Trafficking ,4.5
+2021,Romania,Human Trafficking ,6.5
+2021,Equatorial Guinea,Human Trafficking ,4.5
+2021,Serbia,Human Trafficking ,5
+2021,Samoa,Human Trafficking ,3.5
+2021,St. Kitts and Nevis,Human Trafficking ,3
+2021,Hungary,Human Trafficking ,6
+2021,Montenegro,Human Trafficking ,4.5
+2021,Trinidad and Tobago,Human Trafficking ,6
+2021,Czech Republic,Human Trafficking ,5
+2021,Barbados,Human Trafficking ,3.5
+2021,Laos,Human Trafficking ,6.5
+2021,Palau,Human Trafficking ,4
+2021,El Salvador,Human Trafficking ,7
+2021,Vanuatu,Human Trafficking ,2.5
+2021,Singapore,Human Trafficking ,5.5
+2021,Jordan,Human Trafficking ,6.5
+2021,New Zealand,Human Trafficking ,3.5
+2021,Antigua and Barbuda,Human Trafficking ,4
+2021,Bosnia and Herzegovina,Human Trafficking ,5.5
+2021,North Macedonia,Human Trafficking ,5.5
+2021,Slovakia,Human Trafficking ,5.5
+2021,Moldova,Human Trafficking ,7.5
+2021,Marshall Islands,Human Trafficking ,4.5
+2021,Micronesia (Federated States of),Human Trafficking ,5
+2021,Burundi,Human Trafficking ,8.5
+2021,Central African Republic,Human Trafficking ,7.5
+2021,Tuvalu,Human Trafficking ,1.5
+2021,Maldives,Human Trafficking ,6
+2021,South Sudan,Human Trafficking ,8.5
+2021,Somalia,Human Trafficking ,8
+2021,Uruguay,Human Trafficking ,3
+2021,Libya,Human Trafficking ,9.5
+2021,Jamaica,Human Trafficking ,5
+2021,St. Vincent and the Grenadines,Human Trafficking ,2.5
+2021,Slovenia,Human Trafficking ,4
+2021,St. Lucia,Human Trafficking ,4
+2021,Dominica,Human Trafficking ,2.5
+2021,Turkey,Drug trade,5.5
+2021,Cabo Verde,Drug trade,4.5
+2021,South Africa,Drug trade,8.5
+2021,Colombia,Drug trade,5
+2021,Peru,Drug trade,4
+2021,Iraq,Drug trade,6
+2021,Suriname,Drug trade,2
+2021,Venezuela,Drug trade,1.5
+2021,Mauritius,Drug trade,8
+2021,Botswana,Drug trade,3.5
+2021,Iran,Drug trade,8.5
+2021,Guyana,Drug trade,2.5
+2021,Senegal,Drug trade,2.5
+2021,Brazil,Drug trade,4
+2021,Cambodia,Drug trade,7.5
+2021,Nigeria,Drug trade,8
+2021,Philippines,Drug trade,9
+2021,Rwanda,Drug trade,3
+2021,Ghana,Drug trade,7
+2021,Ethiopia,Drug trade,3
+2021,Bolivia,Drug trade,2
+2021,Kenya,Drug trade,4.5
+2021,Afghanistan,Drug trade,8.5
+2021,Indonesia,Drug trade,6
+2021,Gambia,Drug trade,4
+2021,Namibia,Drug trade,4.5
+2021,Mexico,Drug trade,9
+2021,Sao Tome and Principe,Drug trade,1
+2021,Tunisia,Drug trade,4
+2021,Algeria,Drug trade,5.5
+2021,Morocco,Drug trade,6
+2021,Seychelles,Drug trade,2.5
+2021,Djibouti,Drug trade,1.5
+2021,India,Drug trade,6.5
+2021,Angola,Drug trade,2.5
+2021,Saudi Arabia,Drug trade,7.5
+2021,Côte d'Ivoire,Drug trade,6
+2021,Switzerland,Drug trade,3.5
+2021,Yemen,Drug trade,4
+2021,Tajikistan,Drug trade,5
+2021,Zambia,Drug trade,4
+2021,Syria,Drug trade,9.5
+2021,Turkmenistan,Drug trade,4
+2021,Ireland,Drug trade,5
+2021,"Korea, DPR",Drug trade,7
+2021,Malawi,Drug trade,2
+2021,Myanmar,Drug trade,9.5
+2021,Nepal,Drug trade,4
+2021,Tanzania,Drug trade,5.5
+2021,Ecuador,Drug trade,5.5
+2021,Egypt,Drug trade,7
+2021,Costa Rica,Drug trade,3.5
+2021,Togo,Drug trade,4
+2021,Bahrain,Drug trade,6.5
+2021,Uganda,Drug trade,4
+2021,Uzbekistan,Drug trade,4
+2021,Vietnam,Drug trade,6.5
+2021,Thailand,Drug trade,8
+2021,Panama,Drug trade,5
+2021,United Arab Emirates,Drug trade,7.5
+2021,Nicaragua,Drug trade,3.5
+2021,Kuwait,Drug trade,7
+2021,Lesotho,Drug trade,3
+2021,Burkina Faso,Drug trade,6
+2021,Haiti,Drug trade,3.5
+2021,Azerbaijan,Drug trade,4
+2021,Malaysia,Drug trade,7.5
+2021,Benin,Drug trade,6
+2021,Papua New Guinea,Drug trade,4.5
+2021,Oman,Drug trade,6
+2021,Pakistan,Drug trade,6.5
+2021,Sierra Leone,Drug trade,5
+2021,France,Drug trade,5.5
+2021,Netherlands,Drug trade,7.5
+2021,Kyrgyzstan,Drug trade,4.5
+2021,Andorra,Drug trade,1.5
+2021,Madagascar,Drug trade,2
+2021,Israel,Drug trade,5.5
+2021,Belgium,Drug trade,7.5
+2021,Qatar,Drug trade,6.5
+2021,Honduras,Drug trade,3
+2021,Mozambique,Drug trade,7
+2021,Germany,Drug trade,6
+2021,United Kingdom,Drug trade,5.5
+2021,Austria,Drug trade,4.5
+2021,"Congo, Rep.",Drug trade,2
+2021,Lebanon,Drug trade,8
+2021,Liechtenstein,Drug trade,2
+2021,China,Drug trade,8
+2021,Bhutan,Drug trade,3
+2021,Luxembourg,Drug trade,3
+2021,United States,Drug trade,7.5
+2021,Kazakhstan,Drug trade,5
+2021,Dominican Republic,Drug trade,4.5
+2021,Eswatini,Drug trade,3
+2021,Italy,Drug trade,5
+2021,Niger,Drug trade,7
+2021,Malta,Drug trade,5.5
+2021,Zimbabwe,Drug trade,5
+2021,Liberia,Drug trade,3
+2021,Mongolia,Drug trade,6
+2021,Gabon,Drug trade,5
+2021,Portugal,Drug trade,4.5
+2021,Greece,Drug trade,2.5
+2021,Cuba,Drug trade,4
+2021,Cameroon,Drug trade,7
+2021,Mauritania,Drug trade,2
+2021,Sudan,Drug trade,4.5
+2021,Guinea,Drug trade,4.5
+2021,Paraguay,Drug trade,4.5
+2021,Bangladesh,Drug trade,6.5
+2021,Armenia,Drug trade,4
+2021,Spain,Drug trade,4
+2021,Cyprus,Drug trade,3
+2021,Monaco,Drug trade,2
+2021,Chad,Drug trade,7
+2021,Nauru,Drug trade,1
+2021,San Marino,Drug trade,1
+2021,Guinea-Bissau,Drug trade,2
+2021,Japan,Drug trade,5.5
+2021,Norway,Drug trade,4.5
+2021,Belize,Drug trade,3
+2021,Mali,Drug trade,6.5
+2021,Sri Lanka,Drug trade,5
+2021,Estonia,Drug trade,6.5
+2021,Sweden,Drug trade,5.5
+2021,Georgia,Drug trade,4
+2021,Denmark,Drug trade,5
+2021,Argentina,Drug trade,3
+2021,Latvia,Drug trade,5
+2021,Lithuania,Drug trade,4
+2021,Canada,Drug trade,5
+2021,Finland,Drug trade,4.5
+2021,Grenada,Drug trade,1.5
+2021,Iceland,Drug trade,4.5
+2021,Comoros,Drug trade,6
+2021,Ukraine,Drug trade,3.5
+2021,Solomon Islands,Drug trade,1.5
+2021,Guatemala,Drug trade,6
+2021,Albania,Drug trade,3
+2021,Poland,Drug trade,6.5
+2021,Kiribati,Drug trade,1
+2021,Russia,Drug trade,7.5
+2021,Timor-Leste,Drug trade,4
+2021,Eritrea,Drug trade,1.5
+2021,"Korea, Rep.",Drug trade,5
+2021,Chile,Drug trade,4.5
+2021,Fiji,Drug trade,6.5
+2021,Bahamas,Drug trade,3
+2021,Brunei,Drug trade,4
+2021,Bulgaria,Drug trade,6
+2021,"Congo, Dem. Rep.",Drug trade,2.5
+2021,Australia,Drug trade,7
+2021,Belarus,Drug trade,5
+2021,Tonga,Drug trade,6.5
+2021,Croatia,Drug trade,5.5
+2021,Romania,Drug trade,4.5
+2021,Equatorial Guinea,Drug trade,1
+2021,Serbia,Drug trade,6
+2021,Samoa,Drug trade,2.5
+2021,St. Kitts and Nevis,Drug trade,1
+2021,Hungary,Drug trade,5.5
+2021,Montenegro,Drug trade,4.5
+2021,Trinidad and Tobago,Drug trade,4
+2021,Czech Republic,Drug trade,6.5
+2021,Barbados,Drug trade,1
+2021,Laos,Drug trade,8
+2021,Palau,Drug trade,5
+2021,El Salvador,Drug trade,2
+2021,Vanuatu,Drug trade,2
+2021,Singapore,Drug trade,5
+2021,Jordan,Drug trade,6
+2021,New Zealand,Drug trade,5.5
+2021,Antigua and Barbuda,Drug trade,1.5
+2021,Bosnia and Herzegovina,Drug trade,5.5
+2021,North Macedonia,Drug trade,5.5
+2021,Slovakia,Drug trade,5.5
+2021,Moldova,Drug trade,5
+2021,Marshall Islands,Drug trade,2.5
+2021,Micronesia (Federated States of),Drug trade,3
+2021,Burundi,Drug trade,2.5
+2021,Central African Republic,Drug trade,7
+2021,Tuvalu,Drug trade,1.5
+2021,Maldives,Drug trade,2
+2021,South Sudan,Drug trade,1
+2021,Somalia,Drug trade,2
+2021,Uruguay,Drug trade,3.5
+2021,Libya,Drug trade,7
+2021,Jamaica,Drug trade,3
+2021,St. Vincent and the Grenadines,Drug trade,1
+2021,Slovenia,Drug trade,5.5
+2021,St. Lucia,Drug trade,1
+2021,Dominica,Drug trade,2.5
+2023,Afghanistan,Criminal markets,7
+2023,Libya,Criminal markets,6.57
+2023,Myanmar,Criminal markets,7.7
+2023,Yemen,Criminal markets,5.63
+2023,Central African Republic,Criminal markets,5.6
+2023,Somalia,Criminal markets,5.27
+2023,"Korea, DPR",Criminal markets,5.73
+2023,Venezuela,Criminal markets,6.03
+2023,South Sudan,Criminal markets,5.13
+2023,Syria,Criminal markets,6.43
+2023,Nicaragua,Criminal markets,5.23
+2023,Burundi,Criminal markets,4.63
+2023,Turkmenistan,Criminal markets,4.4
+2023,Equatorial Guinea,Criminal markets,3.57
+2023,Eritrea,Criminal markets,3.93
+2023,"Congo, Dem, Rep,",Criminal markets,6.2
+2023,Mali,Criminal markets,6.47
+2023,Comoros,Criminal markets,3.73
+2023,Chad,Criminal markets,5.1
+2023,Haiti,Criminal markets,5.77
+2023,Tajikistan,Criminal markets,4.8
+2023,Guinea-Bissau,Criminal markets,4.6
+2023,Sudan,Criminal markets,5.23
+2023,Suriname,Criminal markets,4.53
+2023,Iran,Criminal markets,7.37
+2023,Zimbabwe,Criminal markets,5.03
+2023,Guinea,Criminal markets,4.77
+2023,Mauritania,Criminal markets,4.27
+2023,Cameroon,Criminal markets,6.23
+2023,Iraq,Criminal markets,6.27
+2023,El Salvador,Criminal markets,5.43
+2023,Belarus,Criminal markets,5.33
+2023,Liberia,Criminal markets,5.4
+2023,Gabon,Criminal markets,4.6
+2023,"Congo, Rep,",Criminal markets,4.47
+2023,Mozambique,Criminal markets,5.9
+2023,Papua New Guinea,Criminal markets,5.33
+2023,Belize,Criminal markets,4.43
+2023,eSwatini,Criminal markets,3.87
+2023,Madagascar,Criminal markets,5.27
+2023,Turkey,Criminal markets,6.77
+2023,Paraguay,Criminal markets,6.73
+2023,Sri Lanka,Criminal markets,4.83
+2023,Lebanon,Criminal markets,6.3
+2023,Laos,Criminal markets,6.33
+2023,Burkina Faso,Criminal markets,5.83
+2023,Niger,Criminal markets,5.7
+2023,Benin,Criminal markets,5.43
+2023,Cambodia,Criminal markets,6.7
+2023,Russia,Criminal markets,6.83
+2023,Kyrgyzstan,Criminal markets,4.63
+2023,Egypt,Criminal markets,5.1
+2023,Timor-Leste,Criminal markets,3.67
+2023,Uganda,Criminal markets,6.4
+2023,Bosnia and Herzegovina,Criminal markets,5.3
+2023,Uzbekistan,Criminal markets,4.6
+2023,Moldova,Criminal markets,5.2
+2023,Lesotho,Criminal markets,3.43
+2023,Pakistan,Criminal markets,6.27
+2023,Azerbaijan,Criminal markets,4.1
+2023,Nepal,Criminal markets,6.03
+2023,Saudi Arabia,Criminal markets,6.57
+2023,Guyana,Criminal markets,5.13
+2023,Sierra Leone,Criminal markets,4.6
+2023,Honduras,Criminal markets,6
+2023,Guatemala,Criminal markets,6.1
+2023,Maldives,Criminal markets,3.53
+2023,Tanzania,Criminal markets,6.4
+2023,Mexico,Criminal markets,8.13
+2023,Philippines,Criminal markets,6.57
+2023,Indonesia,Criminal markets,6.6
+2023,Kiribati,Criminal markets,2.6
+2023,Peru,Criminal markets,6.2
+2023,Algeria,Criminal markets,5.17
+2023,Djibouti,Criminal markets,4.3
+2023,Bangladesh,Criminal markets,5.03
+2023,Cyprus,Criminal markets,3.97
+2023,Angola,Criminal markets,5.17
+2023,Togo,Criminal markets,4.77
+2023,Tunisia,Criminal markets,5
+2023,Ukraine,Criminal markets,6.27
+2023,Zambia,Criminal markets,4.47
+2023,Kazakhstan,Criminal markets,4.33
+2023,Namibia,Criminal markets,4.1
+2023,Malawi,Criminal markets,4.77
+2023,Antigua and Barbuda,Criminal markets,2.67
+2023,Brunei,Criminal markets,3.3
+2023,Morocco,Criminal markets,5.1
+2023,Panama,Criminal markets,6.67
+2023,Bhutan,Criminal markets,3.9
+2023,Montenegro,Criminal markets,5.2
+2023,Ethiopia,Criminal markets,6.07
+2023,Vietnam,Criminal markets,6.5
+2023,Thailand,Criminal markets,6.77
+2023,Dominican Republic,Criminal markets,5.13
+2023,Bolivia,Criminal markets,5
+2023,Ecuador,Criminal markets,6.73
+2023,Hungary,Criminal markets,4.73
+2023,Brazil,Criminal markets,6.93
+2023,Sao Tome and Principe,Criminal markets,1.7
+2023,Serbia,Criminal markets,5.73
+2023,"St, Kitts and Nevis",Criminal markets,2.83
+2023,Nauru,Criminal markets,2.2
+2023,Solomon Islands,Criminal markets,3.7
+2023,United Arab Emirates,Criminal markets,7.03
+2023,Côte d'Ivoire,Criminal markets,5.93
+2023,Albania,Criminal markets,4.83
+2023,Malta,Criminal markets,4.3
+2023,Grenada,Criminal markets,2.67
+2023,Vanuatu,Criminal markets,2.67
+2023,Greece,Criminal markets,4.7
+2023,Gambia,Criminal markets,4.67
+2023,Dominica,Criminal markets,2.67
+2023,Oman,Criminal markets,4.9
+2023,Mongolia,Criminal markets,3.83
+2023,Seychelles,Criminal markets,3.5
+2023,San Marino,Criminal markets,2.37
+2023,Georgia,Criminal markets,3.6
+2023,North Macedonia,Criminal markets,4.87
+2023,Slovakia,Criminal markets,4.73
+2023,Tonga,Criminal markets,3.5
+2023,Kenya,Criminal markets,6.93
+2023,Bulgaria,Criminal markets,5.4
+2023,Trinidad and Tobago,Criminal markets,4.8
+2023,Palau,Criminal markets,2.9
+2023,Cuba,Criminal markets,3.63
+2023,"St, Vincent and the Grenadines",Criminal markets,2.67
+2023,Jamaica,Criminal markets,4.9
+2023,India,Criminal markets,6.7
+2023,Qatar,Criminal markets,5.7
+2023,Bahrain,Criminal markets,5.4
+2023,Fiji,Criminal markets,4.3
+2023,Ghana,Criminal markets,6
+2023,Botswana,Criminal markets,4.4
+2023,Bahamas,Criminal markets,3.6
+2023,Kuwait,Criminal markets,5.7
+2023,Mauritius,Criminal markets,4.13
+2023,Rwanda,Criminal markets,4
+2023,Jordan,Criminal markets,4.87
+2023,"St, Lucia",Criminal markets,2.67
+2023,Colombia,Criminal markets,7.3
+2023,South Africa,Criminal markets,6.87
+2023,Costa Rica,Criminal markets,5.37
+2023,Monaco,Criminal markets,1.67
+2023,China,Criminal markets,6.53
+2023,Armenia,Criminal markets,2.93
+2023,Nigeria,Criminal markets,7.37
+2023,Senegal,Criminal markets,5.53
+2023,Marshall Islands,Criminal markets,2.73
+2023,Samoa,Criminal markets,2.97
+2023,Poland,Criminal markets,4.97
+2023,Micronesia (Federated States of),Criminal markets,3
+2023,Malaysia,Criminal markets,6.67
+2023,Croatia,Criminal markets,4.9
+2023,Argentina,Criminal markets,4.5
+2023,Romania,Criminal markets,5.27
+2023,Slovenia,Criminal markets,4.03
+2023,Israel,Criminal markets,5
+2023,Tuvalu,Criminal markets,1.93
+2023,Barbados,Criminal markets,2.43
+2023,Chile,Criminal markets,5.07
+2023,Czech Republic,Criminal markets,4.87
+2023,Italy,Criminal markets,5.73
+2023,Portugal,Criminal markets,4.67
+2023,Cabo Verde,Criminal markets,3.97
+2023,Spain,Criminal markets,5.7
+2023,France,Criminal markets,5.93
+2023,Switzerland,Criminal markets,4.63
+2023,Belgium,Criminal markets,5.17
+2023,United States,Criminal markets,5.83
+2023,Canada,Criminal markets,3.87
+2023,Lithuania,Criminal markets,3.8
+2023,Ireland,Criminal markets,5.17
+2023,Japan,Criminal markets,3.87
+2023,Australia,Criminal markets,4.3
+2023,Netherlands,Criminal markets,5.23
+2023,Sweden,Criminal markets,4.6
+2023,Germany,Criminal markets,5.47
+2023,Austria,Criminal markets,4.17
+2023,Uruguay,Criminal markets,3.33
+2023,Luxembourg,Criminal markets,2.9
+2023,United Kingdom,Criminal markets,5.5
+2023,Latvia,Criminal markets,4.5
+2023,Singapore,Criminal markets,3.93
+2023,Estonia,Criminal markets,4.2
+2023,New Zealand,Criminal markets,3.77
+2023,Norway,Criminal markets,4.1
+2023,Andorra,Criminal markets,2.73
+2023,"Korea, Rep,",Criminal markets,3.57
+2023,Denmark,Criminal markets,4.33
+2023,Iceland,Criminal markets,2.93
+2023,Liechtenstein,Criminal markets,2.33
+2023,Finland,Criminal markets,3.27
+2023,Afghanistan,Human trafficking,9
+2023,Libya,Human trafficking,8.5
+2023,Myanmar,Human trafficking,8.5
+2023,Yemen,Human trafficking,9
+2023,Central African Republic,Human trafficking,7.5
+2023,Somalia,Human trafficking,8
+2023,"Korea, DPR",Human trafficking,8.5
+2023,Venezuela,Human trafficking,7.5
+2023,South Sudan,Human trafficking,8.5
+2023,Syria,Human trafficking,8.5
+2023,Nicaragua,Human trafficking,7
+2023,Burundi,Human trafficking,8.5
+2023,Turkmenistan,Human trafficking,8.5
+2023,Equatorial Guinea,Human trafficking,4.5
+2023,Eritrea,Human trafficking,9
+2023,"Congo, Dem, Rep,",Human trafficking,7.5
+2023,Mali,Human trafficking,7.5
+2023,Comoros,Human trafficking,5
+2023,Chad,Human trafficking,7
+2023,Haiti,Human trafficking,7.5
+2023,Tajikistan,Human trafficking,7
+2023,Guinea-Bissau,Human trafficking,5.5
+2023,Sudan,Human trafficking,8
+2023,Suriname,Human trafficking,4
+2023,Iran,Human trafficking,8
+2023,Zimbabwe,Human trafficking,5.5
+2023,Guinea,Human trafficking,7
+2023,Mauritania,Human trafficking,7.5
+2023,Cameroon,Human trafficking,6.5
+2023,Iraq,Human trafficking,7.5
+2023,El Salvador,Human trafficking,7
+2023,Belarus,Human trafficking,7
+2023,Liberia,Human trafficking,6
+2023,Gabon,Human trafficking,5.5
+2023,"Congo, Rep,",Human trafficking,6.5
+2023,Mozambique,Human trafficking,4.5
+2023,Papua New Guinea,Human trafficking,7
+2023,Belize,Human trafficking,5.5
+2023,eSwatini,Human trafficking,4
+2023,Madagascar,Human trafficking,6
+2023,Turkey,Human trafficking,8
+2023,Paraguay,Human trafficking,7.5
+2023,Sri Lanka,Human trafficking,6.5
+2023,Lebanon,Human trafficking,7.5
+2023,Laos,Human trafficking,7
+2023,Burkina Faso,Human trafficking,7
+2023,Niger,Human trafficking,7.5
+2023,Benin,Human trafficking,6.5
+2023,Cambodia,Human trafficking,8.5
+2023,Russia,Human trafficking,7.5
+2023,Kyrgyzstan,Human trafficking,7
+2023,Egypt,Human trafficking,6
+2023,Timor-Leste,Human trafficking,4.5
+2023,Uganda,Human trafficking,7.5
+2023,Bosnia and Herzegovina,Human trafficking,5.5
+2023,Uzbekistan,Human trafficking,7.5
+2023,Moldova,Human trafficking,7.5
+2023,Lesotho,Human trafficking,4
+2023,Pakistan,Human trafficking,8
+2023,Azerbaijan,Human trafficking,4.5
+2023,Nepal,Human trafficking,8
+2023,Saudi Arabia,Human trafficking,8
+2023,Guyana,Human trafficking,5.5
+2023,Sierra Leone,Human trafficking,5
+2023,Honduras,Human trafficking,7
+2023,Guatemala,Human trafficking,7
+2023,Maldives,Human trafficking,7
+2023,Tanzania,Human trafficking,6.5
+2023,Mexico,Human trafficking,8
+2023,Philippines,Human trafficking,7.5
+2023,Indonesia,Human trafficking,7.5
+2023,Kiribati,Human trafficking,5
+2023,Peru,Human trafficking,7
+2023,Algeria,Human trafficking,4
+2023,Djibouti,Human trafficking,6.5
+2023,Bangladesh,Human trafficking,8
+2023,Cyprus,Human trafficking,5.5
+2023,Angola,Human trafficking,6.5
+2023,Togo,Human trafficking,5.5
+2023,Tunisia,Human trafficking,4
+2023,Ukraine,Human trafficking,7.5
+2023,Zambia,Human trafficking,5
+2023,Kazakhstan,Human trafficking,6
+2023,Namibia,Human trafficking,3.5
+2023,Malawi,Human trafficking,5
+2023,Antigua and Barbuda,Human trafficking,4
+2023,Brunei,Human trafficking,5
+2023,Morocco,Human trafficking,5.5
+2023,Panama,Human trafficking,7.5
+2023,Bhutan,Human trafficking,6
+2023,Montenegro,Human trafficking,5
+2023,Ethiopia,Human trafficking,8
+2023,Vietnam,Human trafficking,7
+2023,Thailand,Human trafficking,7
+2023,Dominican Republic,Human trafficking,6.5
+2023,Bolivia,Human trafficking,5
+2023,Ecuador,Human trafficking,6.5
+2023,Hungary,Human trafficking,6.5
+2023,Brazil,Human trafficking,6
+2023,Sao Tome and Principe,Human trafficking,1.5
+2023,Serbia,Human trafficking,6
+2023,"St, Kitts and Nevis",Human trafficking,3
+2023,Nauru,Human trafficking,1.5
+2023,Solomon Islands,Human trafficking,4.5
+2023,United Arab Emirates,Human trafficking,8.5
+2023,Côte d'Ivoire,Human trafficking,7
+2023,Albania,Human trafficking,5
+2023,Malta,Human trafficking,5
+2023,Grenada,Human trafficking,2
+2023,Vanuatu,Human trafficking,3.5
+2023,Greece,Human trafficking,5.5
+2023,Gambia,Human trafficking,6
+2023,Dominica,Human trafficking,3
+2023,Oman,Human trafficking,7
+2023,Mongolia,Human trafficking,5
+2023,Seychelles,Human trafficking,4
+2023,San Marino,Human trafficking,2
+2023,Georgia,Human trafficking,3.5
+2023,North Macedonia,Human trafficking,5
+2023,Slovakia,Human trafficking,5
+2023,Tonga,Human trafficking,3.5
+2023,Kenya,Human trafficking,8
+2023,Bulgaria,Human trafficking,5
+2023,Trinidad and Tobago,Human trafficking,6.5
+2023,Palau,Human trafficking,3.5
+2023,Cuba,Human trafficking,5.5
+2023,"St, Vincent and the Grenadines",Human trafficking,2.5
+2023,Jamaica,Human trafficking,5
+2023,India,Human trafficking,8
+2023,Qatar,Human trafficking,8
+2023,Bahrain,Human trafficking,8
+2023,Fiji,Human trafficking,5
+2023,Ghana,Human trafficking,7
+2023,Botswana,Human trafficking,4.5
+2023,Bahamas,Human trafficking,5
+2023,Kuwait,Human trafficking,8
+2023,Mauritius,Human trafficking,4.5
+2023,Rwanda,Human trafficking,5
+2023,Jordan,Human trafficking,6
+2023,"St, Lucia",Human trafficking,4
+2023,Colombia,Human trafficking,8
+2023,South Africa,Human trafficking,4.5
+2023,Costa Rica,Human trafficking,5
+2023,Monaco,Human trafficking,2
+2023,China,Human trafficking,7
+2023,Armenia,Human trafficking,3
+2023,Nigeria,Human trafficking,7.5
+2023,Senegal,Human trafficking,5.5
+2023,Marshall Islands,Human trafficking,5
+2023,Samoa,Human trafficking,3.5
+2023,Poland,Human trafficking,5.5
+2023,Micronesia (Federated States of),Human trafficking,5
+2023,Malaysia,Human trafficking,7.5
+2023,Croatia,Human trafficking,5
+2023,Argentina,Human trafficking,5
+2023,Romania,Human trafficking,6
+2023,Slovenia,Human trafficking,4
+2023,Israel,Human trafficking,6
+2023,Tuvalu,Human trafficking,1.5
+2023,Barbados,Human trafficking,4
+2023,Chile,Human trafficking,6
+2023,Czech Republic,Human trafficking,5.5
+2023,Italy,Human trafficking,7
+2023,Portugal,Human trafficking,5.5
+2023,Cabo Verde,Human trafficking,4.5
+2023,Spain,Human trafficking,7
+2023,France,Human trafficking,6
+2023,Switzerland,Human trafficking,5
+2023,Belgium,Human trafficking,5
+2023,United States,Human trafficking,6
+2023,Canada,Human trafficking,4
+2023,Lithuania,Human trafficking,4
+2023,Ireland,Human trafficking,5
+2023,Japan,Human trafficking,5
+2023,Australia,Human trafficking,3.5
+2023,Netherlands,Human trafficking,5.5
+2023,Sweden,Human trafficking,5
+2023,Germany,Human trafficking,6
+2023,Austria,Human trafficking,4.5
+2023,Uruguay,Human trafficking,3
+2023,Luxembourg,Human trafficking,3.5
+2023,United Kingdom,Human trafficking,7
+2023,Latvia,Human trafficking,5
+2023,Singapore,Human trafficking,5.5
+2023,Estonia,Human trafficking,4.5
+2023,New Zealand,Human trafficking,3.5
+2023,Norway,Human trafficking,5
+2023,Andorra,Human trafficking,2.5
+2023,"Korea, Rep,",Human trafficking,5.5
+2023,Denmark,Human trafficking,4
+2023,Iceland,Human trafficking,4.5
+2023,Liechtenstein,Human trafficking,2
+2023,Finland,Human trafficking,3.5
+2023,Afghanistan,Drug trade,9
+2023,Libya,Drug trade,7.5
+2023,Myanmar,Drug trade,10
+2023,Yemen,Drug trade,4.5
+2023,Central African Republic,Drug trade,7
+2023,Somalia,Drug trade,2.5
+2023,"Korea, DPR",Drug trade,8
+2023,Venezuela,Drug trade,3
+2023,South Sudan,Drug trade,1
+2023,Syria,Drug trade,10
+2023,Nicaragua,Drug trade,3.5
+2023,Burundi,Drug trade,3
+2023,Turkmenistan,Drug trade,4
+2023,Equatorial Guinea,Drug trade,1.5
+2023,Eritrea,Drug trade,1.5
+2023,"Congo, Dem, Rep,",Drug trade,2.5
+2023,Mali,Drug trade,7
+2023,Comoros,Drug trade,4.5
+2023,Chad,Drug trade,7.5
+2023,Haiti,Drug trade,3.5
+2023,Tajikistan,Drug trade,5.5
+2023,Guinea-Bissau,Drug trade,2
+2023,Sudan,Drug trade,5
+2023,Suriname,Drug trade,3
+2023,Iran,Drug trade,9.5
+2023,Zimbabwe,Drug trade,5.5
+2023,Guinea,Drug trade,4.5
+2023,Mauritania,Drug trade,3
+2023,Cameroon,Drug trade,7
+2023,Iraq,Drug trade,7
+2023,El Salvador,Drug trade,2.5
+2023,Belarus,Drug trade,5
+2023,Liberia,Drug trade,3.5
+2023,Gabon,Drug trade,5
+2023,"Congo, Rep,",Drug trade,2
+2023,Mozambique,Drug trade,7
+2023,Papua New Guinea,Drug trade,5
+2023,Belize,Drug trade,3
+2023,eSwatini,Drug trade,3
+2023,Madagascar,Drug trade,2.5
+2023,Turkey,Drug trade,7
+2023,Paraguay,Drug trade,4.5
+2023,Sri Lanka,Drug trade,6
+2023,Lebanon,Drug trade,8.5
+2023,Laos,Drug trade,8.5
+2023,Burkina Faso,Drug trade,5.5
+2023,Niger,Drug trade,7.5
+2023,Benin,Drug trade,6
+2023,Cambodia,Drug trade,8
+2023,Russia,Drug trade,8.5
+2023,Kyrgyzstan,Drug trade,5
+2023,Egypt,Drug trade,8
+2023,Timor-Leste,Drug trade,4
+2023,Uganda,Drug trade,4
+2023,Bosnia and Herzegovina,Drug trade,6
+2023,Uzbekistan,Drug trade,4.5
+2023,Moldova,Drug trade,5
+2023,Lesotho,Drug trade,3.5
+2023,Pakistan,Drug trade,7
+2023,Azerbaijan,Drug trade,5
+2023,Nepal,Drug trade,4.5
+2023,Saudi Arabia,Drug trade,9
+2023,Guyana,Drug trade,3.5
+2023,Sierra Leone,Drug trade,6
+2023,Honduras,Drug trade,3.5
+2023,Guatemala,Drug trade,6
+2023,Maldives,Drug trade,2
+2023,Tanzania,Drug trade,5.5
+2023,Mexico,Drug trade,9
+2023,Philippines,Drug trade,9
+2023,Indonesia,Drug trade,7
+2023,Kiribati,Drug trade,1
+2023,Peru,Drug trade,4.5
+2023,Algeria,Drug trade,6.5
+2023,Djibouti,Drug trade,1.5
+2023,Bangladesh,Drug trade,6.5
+2023,Cyprus,Drug trade,3
+2023,Angola,Drug trade,2.5
+2023,Togo,Drug trade,5
+2023,Tunisia,Drug trade,6
+2023,Ukraine,Drug trade,8
+2023,Zambia,Drug trade,3.5
+2023,Kazakhstan,Drug trade,6
+2023,Namibia,Drug trade,4.5
+2023,Malawi,Drug trade,3
+2023,Antigua and Barbuda,Drug trade,1.5
+2023,Brunei,Drug trade,4.5
+2023,Morocco,Drug trade,6
+2023,Panama,Drug trade,5
+2023,Bhutan,Drug trade,3.5
+2023,Montenegro,Drug trade,4
+2023,Ethiopia,Drug trade,3
+2023,Vietnam,Drug trade,7
+2023,Thailand,Drug trade,8.5
+2023,Dominican Republic,Drug trade,4.5
+2023,Bolivia,Drug trade,2
+2023,Ecuador,Drug trade,5.5
+2023,Hungary,Drug trade,6
+2023,Brazil,Drug trade,4.5
+2023,Sao Tome and Principe,Drug trade,1.5
+2023,Serbia,Drug trade,6
+2023,"St, Kitts and Nevis",Drug trade,1
+2023,Nauru,Drug trade,1.5
+2023,Solomon Islands,Drug trade,1.5
+2023,United Arab Emirates,Drug trade,8
+2023,Côte d'Ivoire,Drug trade,6
+2023,Albania,Drug trade,3.5
+2023,Malta,Drug trade,5
+2023,Grenada,Drug trade,1.5
+2023,Vanuatu,Drug trade,2
+2023,Greece,Drug trade,3.5
+2023,Gambia,Drug trade,4
+2023,Dominica,Drug trade,2.5
+2023,Oman,Drug trade,6.5
+2023,Mongolia,Drug trade,5.5
+2023,Seychelles,Drug trade,3
+2023,San Marino,Drug trade,1.5
+2023,Georgia,Drug trade,4
+2023,North Macedonia,Drug trade,5.5
+2023,Slovakia,Drug trade,5.5
+2023,Tonga,Drug trade,7.5
+2023,Kenya,Drug trade,5.5
+2023,Bulgaria,Drug trade,6.5
+2023,Trinidad and Tobago,Drug trade,4
+2023,Palau,Drug trade,4
+2023,Cuba,Drug trade,3
+2023,"St, Vincent and the Grenadines",Drug trade,1
+2023,Jamaica,Drug trade,3
+2023,India,Drug trade,7
+2023,Qatar,Drug trade,7
+2023,Bahrain,Drug trade,7
+2023,Fiji,Drug trade,7
+2023,Ghana,Drug trade,7
+2023,Botswana,Drug trade,4
+2023,Bahamas,Drug trade,3
+2023,Kuwait,Drug trade,7
+2023,Mauritius,Drug trade,8
+2023,Rwanda,Drug trade,1.5
+2023,Jordan,Drug trade,7
+2023,"St, Lucia",Drug trade,1
+2023,Colombia,Drug trade,6
+2023,South Africa,Drug trade,8.5
+2023,Costa Rica,Drug trade,3.5
+2023,Monaco,Drug trade,2
+2023,China,Drug trade,8
+2023,Armenia,Drug trade,4
+2023,Nigeria,Drug trade,8.5
+2023,Senegal,Drug trade,3
+2023,Marshall Islands,Drug trade,2.5
+2023,Samoa,Drug trade,4
+2023,Poland,Drug trade,7
+2023,Micronesia (Federated States of),Drug trade,3.5
+2023,Malaysia,Drug trade,7.5
+2023,Croatia,Drug trade,5.5
+2023,Argentina,Drug trade,3
+2023,Romania,Drug trade,5
+2023,Slovenia,Drug trade,5
+2023,Israel,Drug trade,5.5
+2023,Tuvalu,Drug trade,1.5
+2023,Barbados,Drug trade,1
+2023,Chile,Drug trade,5.5
+2023,Czech Republic,Drug trade,6.5
+2023,Italy,Drug trade,5
+2023,Portugal,Drug trade,5
+2023,Cabo Verde,Drug trade,4
+2023,Spain,Drug trade,5.5
+2023,France,Drug trade,6
+2023,Switzerland,Drug trade,4
+2023,Belgium,Drug trade,7.5
+2023,United States,Drug trade,8.5
+2023,Canada,Drug trade,5.5
+2023,Lithuania,Drug trade,4.5
+2023,Ireland,Drug trade,6
+2023,Japan,Drug trade,5
+2023,Australia,Drug trade,7
+2023,Netherlands,Drug trade,8
+2023,Sweden,Drug trade,6
+2023,Germany,Drug trade,6.5
+2023,Austria,Drug trade,5
+2023,Uruguay,Drug trade,3.5
+2023,Luxembourg,Drug trade,3.5
+2023,United Kingdom,Drug trade,6
+2023,Latvia,Drug trade,5.5
+2023,Singapore,Drug trade,5.5
+2023,Estonia,Drug trade,7
+2023,New Zealand,Drug trade,6
+2023,Norway,Drug trade,4.5
+2023,Andorra,Drug trade,1.5
+2023,"Korea, Rep,",Drug trade,5
+2023,Denmark,Drug trade,5
+2023,Iceland,Drug trade,4.5
+2023,Liechtenstein,Drug trade,2
+2023,Finland,Drug trade,5
