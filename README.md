@@ -7,7 +7,7 @@
 - Taryn
 
 ## Project Description
-In this project, we investigate the rates of global theft and cybercrime. Our aim is to determine which countries have the most and fewest incidences of theft and cybercrime. Additionally, we will use machine learning to predict which countries will experience the most and least growth in theft and cybercrime rates in the future. We will ensure the credibility of our datasets and generate visualizations based on our findings using HTML, CSS, JavaScript, Python and ClickUp.
+In this project, we investigate the rates of global theft and cybercrime. Our aim is to determine which countries have the most and fewest incidences of theft and cybercrime. Additionally, we will predict which countries will experience the most and least growth in theft and cybercrime rates in the future. We will ensure the credibility of our datasets and generate visualizations based on our findings using HTML, CSS, JavaScript, Python and ClickUp.
 
 ## Research Questions
 1. Which countries have the highest and lowest theft rates?
