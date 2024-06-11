@@ -20,7 +20,7 @@ In this project, we investigate the rates of global theft and cybercrime. Our ai
 - **Angelica:**
   - Project Management and Webscraping Design
 - **Juan:**
-  - Created Github and Userfacing Design
+  - GitHub and Userfacing Design
 - **Taryn:**
   - Interactive Visualization Design
 
