@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Exploration - Global Crime Analysis</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.4.4/d3.min.js"></script>
+</head>
+<body class="data-page">
+    <header>
+        <h1>Data Exploration</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="home.html">Home</a></li>
+            <li><a href="data.html">Data</a></li>
+            <li><a href="analysis.html">Analysis</a></li>
+            <li><a href="team.html">Team</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="data">
+            <h2>Explore the Data</h2>
+            <div class="data-controls">
+                <label for="year-select">Select Year:</label>
+                <select id="year-select"></select>
+                
+                <label for="crime-type-select">Select Crime Type:</label>
+                <select id="crime-type-select"></select>
+            </div>
+            <div id="data-display">
+                <iframe id="crime-map" src="crime_map.html" width="100%" height="500" frameborder="0"></iframe>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 The Global Detectives</p>
+    </footer>
+    <script>
+        // Load data for dropdowns
+        d3.csv("D:/ASU_Bootcamp_Anaconda/Group-Project-4-main/Project_4_Userfacing/cyber_crime_data.csv").then(function(data) {
+            // Get unique years and crime types
+            let years = [...new Set(data.map(d => d.Year))];
+            let crimeTypes = [...new Set(data.map(d => d.CrimeType))];
+
+            // Populate the year dropdown
+            let yearSelect = d3.select("#year-select");
+            yearSelect.selectAll("option")
+                .data(years)
+                .enter()
+                .append("option")
+                .attr("value", d => d)
+                .text(d => d);
+
+            // Populate the crime type dropdown
+            let crimeTypeSelect = d3.select("#crime-type-select");
+            crimeTypeSelect.selectAll("option")
+                .data(crimeTypes)
+                .enter()
+                .append("option")
+                .attr("value", d => d)
+                .text(d => d);
+
+            // Event listeners for dropdowns
+            yearSelect.on("change", updateMap);
+            crimeTypeSelect.on("change", updateMap);
+
+            function updateMap() {
+                let selectedYear = yearSelect.node().value;
+                let selectedCrimeType = crimeTypeSelect.node().value;
+
+                // Update the iframe source with new parameters
+                document.getElementById('crime-map').src = `crime_map.html?year=${selectedYear}&crime_type=${selectedCrimeType}`;
+            }
+        });
+    </script>
+</body>
+</html>
